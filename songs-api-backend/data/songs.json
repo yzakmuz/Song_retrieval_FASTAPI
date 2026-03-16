@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "year": 1975,
+    "genre": "Rock"
+  },
+  {
+    "id": 2,
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "album": "Imagine",
+    "year": 1971,
+    "genre": "Rock"
+  },
+  {
+    "id": 3,
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "year": 1976,
+    "genre": "Rock"
+  },
+  {
+    "id": 4,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "year": 2019,
+    "genre": "Pop"
+  },
+  {
+    "id": 5,
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "year": 2020,
+    "genre": "Pop"
+  },
+  {
+    "id": 6,
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "year": 1982,
+    "genre": "Pop"
+  },
+  {
+    "id": 7,
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "year": 1971,
+    "genre": "Rock"
+  },
+  {
+    "id": 8,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "÷ (Divide)",
+    "year": 2017,
+    "genre": "Pop"
+  },
+  {
+    "id": 9,
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "year": 1991,
+    "genre": "Rock"
+  },
+  {
+    "id": 10,
+    "title": "Jazz Hands",
+    "artist": "Esperanza Spalding",
+    "album": "Esperanza",
+    "year": 2008,
+    "genre": "Jazz"
+  }
+]
